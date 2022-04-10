@@ -1,2 +1,2 @@
 # javascript
-Anotação &amp; Exercicios de Javascript
+Anotações &amp; Exercicios de Javascript
