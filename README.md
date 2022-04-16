@@ -1,13 +1,13 @@
-# JavaScript: Anotações & Exercícios pessoais.
+# 📒・ JavaScript: Anotações & Exercícios pessoais.
 
-<img src="img/javascript.jpg" alt="JavaScript"> <br>
+<img src="img/js.jpg" alt="JavaScript"> <br>
 <hr>
 
 # 🎇 JavaScript: Guia Pessoal & Roadmap
 
 > Meu guia pessoal de estudos para JavaScript, feito para utilizar para consultas e me auxiliar e guiar durante todo meu aprendizado sobre essa linguagem de programação.
 
-# JavaScript - Parte 1°
+# 🐱・JavaScript - Parte 1°
 
 - [Váriaveis](https://github.com/arthurspk/javascript/blob/main/variaveis/variaveis.md) 
 - [Classes](#) 
@@ -25,7 +25,7 @@
 - [Estruturas de Repetição](#) 
 - [Estrutururas condicionais](#) 
 
-# JavaScript - Parte 2° 
+# 🦁・JavaScript - Parte 2° 
 
 - [Destructuring](#) 
 - [Rest e Spread](#) 
@@ -34,7 +34,7 @@
 - [Function Expression](#) 
 - [Closures e Debugging](#) 
 
-# JavaScript Assícrono
+# 🐹・JavaScript Assícrono
 
 - [JSON](#) 
 - [Fetch](#) 
@@ -43,7 +43,7 @@
 - [Async Await](#) 
 - [History API](#) 
 
-# Objetos 
+# 🐥・Objetos 
 
 - [Array](#)  
 - [String](#) 
@@ -55,7 +55,7 @@
 - [Constructor Fuction](#) 
 - [Native, Host e User](#) 
 
-# Dom
+# 🐝・Dom
 
 - [Eventos](#) 
 - [Navegação por Tabs](#) 
@@ -65,7 +65,7 @@
 - [forEach e Arrow Function](#) 
 - [Traversing e Manipulação](#)  
 
-# Efeitos no Dom
+# 😺・Efeitos no Dom
 
 - [Forms](#) 
 - [Dataset](#) 
@@ -75,13 +75,13 @@
 - [Date Object](#) 
 - [Event Bubble](#) 
 
-# Classes
+# 🐆・Classes
 
 - [Classes](#) 
 - [Extends](#) 
 - [Get e Set](#) 
 
-# Repositórios sobre JavaScript
+# 🐈・Repositórios sobre JavaScript
 
 - [Facebook - React](https://github.com/facebook/react)
 - [Awesome JavaScript Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
@@ -90,7 +90,7 @@
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [33 Conceitos que todo desenvolvedor JS deve conhecer](https://github.com/tiagoboeing/33-js-concepts)
 
-# Bibliotecas e Frameworks
+# 🐪・Bibliotecas e Frameworks
 
 - [Vivus](https://maxwellito.github.io/vivus/)
 - [Oh Snap!](https://justindomingue.github.io/ohSnap/)
@@ -153,26 +153,26 @@
 - [Animate](https://animate.style/)
 - [ScrollMagic](https://scrollmagic.io/)
 
-# Bibliotecas de Fontes
+# 🐕・Bibliotecas de Fontes
 
 - [Typerface.js](https://css-tricks.com/typefacejs-a-sifr-alternative/)
 
-# Bibliotecas de Animações
+# 🐯・Bibliotecas de Animações
 
 - [Anime.js](https://animejs.com/)
 - [JSTweener](https://github.com/valera-rozuvan/JSTweener)
 
-# Bibliotecas de Formulários
+# 🦊・Bibliotecas de Formulários
 
 - [wForms](https://github.com/veerwest/wforms)
 - [Validanguage](https://github.com/gcao/validanguage)
 
-# Bibliotecas de Base de Dados
+# 🦧・Bibliotecas de Base de Dados
 
 - [TaffyDB](https://taffydb.com/)
 - [ActiveRecorde.js](https://github.com/matthewwolfe/active-record-js)
 
-# Biblioteca de Efeitos de Imagem
+# 🐅・Biblioteca de Efeitos de Imagem
 
 - [Pieces](https://github.com/lmgonzalves/pieces)
 - [CamanJS](http://camanjs.com/)
@@ -188,27 +188,27 @@
 - [Add a little magic!](https://gist.github.com/CodeMyUI/bea97056758e585719cb)
 - [Blur on Scroll + Simple Parallax](https://gist.github.com/benjaminsehl/21992c8cdb534d9ff009)
 
-# Bibliotecas de Manipulação do DOM
+# 🐿️・Bibliotecas de Manipulação do DOM
 
 - [jQuery](https://jquery.com/)
 - [Umbrella JS](https://umbrellajs.com/)
 
-# Bibliotecas de Tratamento de dados
+# 🐫・Bibliotecas de Tratamento de dados
 
 - [D3.js](https://d3js.org/)
 
-# Bibliotecas de Interface do usuário e seus componentes
+# 🐠・Bibliotecas de Interface do usuário e seus componentes
 
 - [React.js](https://pt-br.reactjs.org/)
 - [Glimmer.js](https://glimmerjs.com/)
 
-# Bibliotecas de Visualização de dados em mapas e gráficos
+# 🦐・Bibliotecas de Visualização de dados em mapas e gráficos
 
 - [Chart.js](https://www.chartjs.org/)
 - [Apexchart.js](https://apexcharts.com/)
 - [Algolia Lugares](https://community.algolia.com/places/)
 
-# Bibliotecas de Desenvolvimento de Games
+# 🐙・Bibliotecas de Desenvolvimento de Games
 
 - [JawsJS](https://github.com/ippa/jaws) 
 - [Crafty](https://craftyjs.com/)
@@ -216,7 +216,7 @@
 - [Enchant.js](https://github.com/wise9/enchant.js/) 
 - [Backbone Game Engine](https://martindrapeau.github.io/backbone-game-engine/) 
 
-# Bibliotecas de Toast Notification
+# 🦉・Bibliotecas de Toast Notification
 
 - [Noty](https://ned.im/noty/#/)
 - [Toastr](https://codeseven.github.io/toastr/)
@@ -225,7 +225,7 @@
 - [SweetAlert](https://sweetalert.js.org/docs/)
 - [SweetAlert2](https://sweetalert2.github.io/)
 
-# Bibliotecas de Carousel
+# 🪳・Bibliotecas de Carousel
 
 - [Slick](https://kenwheeler.github.io/slick/)
 - [UIKit](https://getuikit.com/docs/slider)
@@ -235,7 +235,7 @@
 - [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
 - [Embla Carousel](https://www.embla-carousel.com/)
 
-# Frameworks 
+# 🐜・Frameworks 
 
 - [Angular](https://angularjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
