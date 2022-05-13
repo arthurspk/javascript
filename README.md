@@ -7,7 +7,7 @@
 
 > Meu guia pessoal de estudos para JavaScript, feito para utilizar para consultas e me auxiliar e guiar durante todo meu aprendizado sobre essa linguagem de programação.
 
-# 🐱・JavaScript - Parte 1°
+# ◾ JavaScript - Parte 1°
 
 - [Váriaveis](https://github.com/arthurspk/javascript/blob/main/variaveis/variaveis.md) 
 - [Classes](#) 
@@ -25,7 +25,7 @@
 - [Estruturas de Repetição](#) 
 - [Estrutururas condicionais](#) 
 
-# 🦁・JavaScript - Parte 2° 
+# ◾ JavaScript - Parte 2° 
 
 - [Destructuring](#) 
 - [Rest e Spread](#) 
@@ -55,7 +55,7 @@
 - [Constructor Fuction](#) 
 - [Native, Host e User](#) 
 
-# 🐝・Dom
+# ◾ Dom
 
 - [Eventos](#) 
 - [Navegação por Tabs](#) 
@@ -65,7 +65,7 @@
 - [forEach e Arrow Function](#) 
 - [Traversing e Manipulação](#)  
 
-# 😺・Efeitos no Dom
+# ◾ Efeitos no Dom
 
 - [Forms](#) 
 - [Dataset](#) 
@@ -75,7 +75,7 @@
 - [Date Object](#) 
 - [Event Bubble](#) 
 
-# 🐆・Classes
+# ◾Classes
 
 - [Classes](#) 
 - [Extends](#) 
